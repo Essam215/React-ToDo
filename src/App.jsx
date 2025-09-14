@@ -7,7 +7,6 @@ function App() {
   return (
     <>
       <CssBaseline />
-      <h1>To Do List</h1>
       <Todolist />
     </>
   )
